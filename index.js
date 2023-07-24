@@ -5,7 +5,7 @@ var options = {
     root: "",
     open: true,
     ignore: 'scss',
-    file: "index.html",
+    file: "SingUpIndex.html",
     wait: 1000,
     mount: [['/components', '/node_module']],
     logLevel: 2,
